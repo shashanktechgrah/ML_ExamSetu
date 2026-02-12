@@ -1,7 +1,8 @@
 transformers
 sentencepiece
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 sentence-transformers
 fastapi
 uvicorn
 numpy
+
